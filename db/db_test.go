@@ -6,7 +6,6 @@ import (
 	"os"
 	"testing"
 
-	"github.com/YuriyNasretdinov/distribkv/db"
 )
 
 func createTempDb(t *testing.T, readOnly bool) *db.Database {
