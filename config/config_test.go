@@ -6,7 +6,6 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/YuriyNasretdinov/distribkv/config"
 )
 
 func createConfig(t *testing.T, contents string) config.Config {
