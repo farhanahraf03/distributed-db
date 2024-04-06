@@ -5,10 +5,6 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-
-	"github.com/YuriyNasretdinov/distribkv/config"
-	"github.com/YuriyNasretdinov/distribkv/db"
-	"github.com/YuriyNasretdinov/distribkv/replication"
 )
 
 // Server contains HTTP method handlers to be used for the database.
