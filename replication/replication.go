@@ -10,7 +10,6 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/YuriyNasretdinov/distribkv/db"
 )
 
 // NextKeyValue contains the response for GetNextKeyForReplication.
